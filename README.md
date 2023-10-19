@@ -1,4 +1,4 @@
-[Portafolio de Frishlin](https://frishlin.github.io/)
+[Portafolio de Frishlin](https://marisolgirls.github.io/portafolio/)
 
 # Herramientas utilizadas:
 
