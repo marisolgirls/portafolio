@@ -7,6 +7,4 @@
 - jQuery v3.3.1
 - Bootstrap v4.0.0
 
-Realizado con ayuda de:
-
-[Technolochicas](https://tecnolochicas.mx/)
+Realizado con ayuda de: [Technolochicas](https://tecnolochicas.mx/)
